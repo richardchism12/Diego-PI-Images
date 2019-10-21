@@ -1,6 +1,0 @@
-telnet 192.168.1.100 pi raspberry
-sudo rm -rt LCD-show
-git clone  https://github.com/goodtft/LCD-show.git
-chmod -R 755 LCD-show
-cd LCD-show
-sudo ./MHS35-show
